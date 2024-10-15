@@ -38,3 +38,5 @@ stages:
     outs:
     - prt.json
     - scores.json
+  practice:
+    cmd: dvc -v
