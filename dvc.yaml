@@ -40,3 +40,4 @@ stages:
     - scores.json
   practice:
     cmd: dvc -v
+  
